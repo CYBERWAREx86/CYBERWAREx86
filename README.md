@@ -56,8 +56,3 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </div>
-<div>
-  <a href="https://linkfly.to/CYBERWARE">
-    <img src="https://img.shields.io/badge/Linkfly-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Linkfly" />
-  </a>
-</div>
