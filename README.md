@@ -15,6 +15,7 @@
   <img align="center" alt="C#" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="TypeScript" height="60" width="60" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000">
   <img align="center" alt="VBS" height="64" width="64" src="https://styles.redditmedia.com/t5_2rs9m/styles/communityIcon_obszzg8ln9u31.png">
+  <img align="center" alt="REACT" height="64" width="64" src="https://images.icon-icons.com/2415/PNG/512/react_original_logo_icon_146374.png">
 </div>
 
 ##
