@@ -4,12 +4,12 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CYBERWAREx86&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYBERWAREx86&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+</div><br>
 
 ##
 
 ### Languages
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
   <img align="center" alt="C" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="C++" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C#" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -18,7 +18,7 @@
 ##
 
 ### Languages Web
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
   <img align="center" alt="TypeScript" height="60" width="60" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000">
   <img align="center" alt="REACT" height="64" width="64" src="https://images.icon-icons.com/2415/PNG/512/react_original_logo_icon_146374.png">
 </div>
@@ -26,7 +26,7 @@
 ##
 
 ### Tools
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
   <img align="center" alt="VISUAL STUDIO" height="60" width="60" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000">
     <img align="center" alt="VSCODE" height="62" width="62" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000">
     <img align="center" alt="LINUX" height="60" width="60" src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000">
