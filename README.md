@@ -44,7 +44,6 @@
     <img align="center" alt="KALI LINUX" height="60" width="60" src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000">
     <img align="center" alt="MYSQL" height="60" width="60" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
     <img align="center" alt="POSTGRE_SQL" height="60" width="60" src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000">
-    <img align="center" alt="BATCH" height="66" width="66" src="https://cdn0.iconfinder.com/data/icons/filesco/256/14.png">  
     <img align="center" alt="QEMU" height="60" width="60" src="https://qemu.weilnetz.de/icon/benoit/black_and_orange_qemu_head-96x96.png">
     <img align="center" alt="GIT" height="66" width="66" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">  
 </div>
