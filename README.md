@@ -10,7 +10,7 @@
 
 ### Main Languages:
 <div style="display: inline_block"><br>
-  <img align="center" alt="C" height="62" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="C" height="57" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="C++" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C#" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="TypeScript" height="60" width="60" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000">
