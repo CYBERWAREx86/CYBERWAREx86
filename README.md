@@ -8,7 +8,7 @@
 
 ##
 
-### Main Languages
+### Languages
 <div style="display: inline_block">
   <img align="center" alt="C" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="C++" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
@@ -17,7 +17,7 @@
 
 ##
 
-### Main Languages Web
+### Languages Web
 <div style="display: inline_block">
   <img align="center" alt="TypeScript" height="60" width="60" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000">
   <img align="center" alt="REACT" height="64" width="64" src="https://images.icon-icons.com/2415/PNG/512/react_original_logo_icon_146374.png">
@@ -25,7 +25,7 @@
 
 ##
 
-### Main Tools
+### Tools
 <div style="display: inline_block">
   <img align="center" alt="VISUAL STUDIO" height="60" width="60" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000">
     <img align="center" alt="VSCODE" height="62" width="62" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000">
