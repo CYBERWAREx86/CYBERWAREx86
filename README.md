@@ -15,6 +15,8 @@
   <img align="center" alt="C#" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+##
+
 ### Main Languages Web:
 <div style="display: inline_block">
   <img align="center" alt="TypeScript" height="60" width="60" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000">
@@ -24,7 +26,7 @@
 ##
 
 ### Main Tools:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="VISUAL STUDIO" height="60" width="60" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000">
     <img align="center" alt="VSCODE" height="62" width="62" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000">
     <img align="center" alt="LINUX" height="60" width="60" src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000">
