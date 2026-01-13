@@ -1,7 +1,7 @@
 ##
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=111111&size=50&center=true&vCenter=true&width=1000&lines=HI!++𓇢𓆸+;✳++My+Name+is+CYBERWARE.++✳;Welcome+to+My+Github+Profile++ඞ+++;|◉o◉|⊃━☆)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c22b53&size=50&center=true&vCenter=true&width=1000&lines=HI!++𓇢𓆸+;✳++My+Name+is+CYBERWARE.++✳;Welcome+to+My+Github+Profile++ඞ+++;|◉o◉|⊃━☆)](https://git.io/typing-svg)
 
 ##
 
