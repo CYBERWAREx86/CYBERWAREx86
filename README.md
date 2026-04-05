@@ -14,14 +14,6 @@
 
 ##
 
-### Languages Web
-<div style="display: inline_block"><br>
-  <img align="center" alt="TypeScript" height="60" width="60" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000">
-  <img align="center" alt="REACT" height="64" width="64" src="https://images.icon-icons.com/2415/PNG/512/react_original_logo_icon_146374.png">
-</div>
-
-##
-
 ### Tools
 <div style="display: inline_block"><br>
     <img align="center" alt="VISUAL STUDIO" height="60" width="60" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000">
@@ -35,6 +27,6 @@
     <img align="center" alt="VMWARE" height="60" width="60" src="https://img.icons8.com/?size=100&id=ICsxwkCBZGfj&format=png&color=000000">
     <img align="center" alt="QEMU" height="60" width="60" src="https://qemu.weilnetz.de/icon/benoit/black_and_orange_qemu_head-96x96.png"></div>
   
-  ##
 
 <br>
+##
